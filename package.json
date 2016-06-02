@@ -1,0 +1,28 @@
+{
+  "name": "@cyio/number-formatter",
+  "version": "1.0.0",
+  "description": "to learn how to create and publish node-js-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyio/number-formatter.git"
+  },
+  "keywords": [],
+  "author": "Oaker <icaner@qq.com> (http://cyio.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyio/number-formatter/issues"
+  },
+  "homepage": "https://github.com/cyio/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
