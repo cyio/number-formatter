@@ -1,5 +1,7 @@
 # number-formatter
 =========
+[![Build Status](https://travis-ci.org/cyio/number-formatter.svg?branch=master)](https://travis-ci.org/cyio/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/cyio/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/cyio/number-formatter?branch=master)
 
 A small library that adds commas to numbers
 
